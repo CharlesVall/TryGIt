@@ -1,0 +1,27 @@
+body {
+	font-family: "Micro 5", sans-serif;
+}
+
+.container{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.element {
+	width: 10em;
+	height: 5em;
+	padding-top: 4em;
+	text-align: center;
+}
+.element1 {
+	background: #ff0000;
+}
+
+.element2 {
+	background: #0000ff;
+}
+
+.element3 {
+	background: #00ff00;
+}
